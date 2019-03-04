@@ -1,2 +1,0 @@
-APP_MODULES := JNI_Test
-APP_ABI := all
